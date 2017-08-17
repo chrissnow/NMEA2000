@@ -92,6 +92,7 @@ const unsigned long DefFastPacketMessages[] PROGMEM = {
                                       129809L, /*AIS Class B Static Data, Part A*/
                                       129810L, /*AIS Class B Static Data Part B*/
                                       130074L, // Waypoint list
+									  126720L, //Proprietary Fast Packet
                                       0};
 
 const tProductInformation DefProductInformation PROGMEM = {
